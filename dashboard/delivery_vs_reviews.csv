@@ -1,0 +1,5 @@
+delivery_bucket,orders,pct_orders,avg_review,pct_low_reviews
+1. On time or early,89182,93.3,4.29,9.2
+2. Late 1-3 days,1851,1.9,3.29,32.2
+3. Late 4-7 days,1748,1.8,2.11,67.6
+4. Late 8+ days,2779,2.9,1.7,79.2

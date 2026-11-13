@@ -1,0 +1,3 @@
+segment,customers,pct_customers,revenue,pct_revenue,avg_revenue_per_customer
+one-time,90315,97.0,12455672.0,94.5,137.91
+repeat (2+),2789,3.0,725355.0,5.5,260.08
